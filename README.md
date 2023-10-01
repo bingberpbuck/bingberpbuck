@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm David. I like to have fun. 
+l
 <!--
 **bingberpbuck/bingberpbuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
